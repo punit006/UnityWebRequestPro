@@ -1,0 +1,13 @@
+/Apk
+/Library
+/Logs
+/obj
+/Packages
+/Temp
+*.csproj
+*.sln
+*.vs
+*.vsconfig
+/Assets/StreamingAssets
+/Assets/StreamingAssets/
+/Assets/StreamingAssets.meta
